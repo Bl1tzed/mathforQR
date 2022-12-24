@@ -81,6 +81,10 @@ void chord(double a, double b) {
 	system("pause");
 }
 
+double bruh(){
+	return 2.5;
+}
+
 void main() {
 	setlocale(0, "");
 	int option = 1;
